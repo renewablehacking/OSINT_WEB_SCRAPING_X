@@ -1,0 +1,16 @@
+{
+  "name": "nyoba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^159.0.0",
+    "puppeteer": "^24.19.0"
+  }
+}
